@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "FAQ-accordion-card",
+			"path": "."
+		},
+		{
+			"name": "design",
+			"path": "../../../../Library/Mobile Documents/com~apple~CloudDocs/Downloads/faq-accordion-card-main/design"
+		},
+		{
+			"name": "images",
+			"path": "../../../../Library/Mobile Documents/com~apple~CloudDocs/Downloads/faq-accordion-card-main/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FAQ-accordion-card"
+	}
+}
